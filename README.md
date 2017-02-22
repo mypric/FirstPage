@@ -1,2 +1,2 @@
 # FirstPage
-Yes
+Yes mono
